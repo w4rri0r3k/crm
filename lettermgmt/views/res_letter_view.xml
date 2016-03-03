@@ -34,7 +34,7 @@
           <field name="type"/>
           <field name="class"/>
           <field name="date"/>
-          <field name="recipient_partner_id"/>
+          <field name="sender_partner_id"/>
           <field name="state"/>
           <field name="channel_id"/>
         </tree>
